@@ -88,15 +88,15 @@ Actividad 1.
 
 Creo un TileMap rectangular donde se creará un Grid y un Tilemap que es donde voy a pintar. Cogí las imágenes de Recursos, le ajusto las dimensiones a 64x64. Se crea  la paleta seleccionando el tileset. Se separa por capas para que no me pinte el sprite y pintamos. 
 
-![TLM1](Imagenes/tlm1.png)
+![TLM1](Imagenes/TLM1.png)
 
 Actividad 2
 
 He creado dos tilemaps nuevos dentro del Grid que actúan como la decoración y los obstáculos, se repite el mismo proceso de antes con la excepción de que al Tilemap obstáculo le colocamos un tilemap collider2d. Además se han ordenado las capas mediante el Order in layer y un Composite Collider.
 
-![TLM2](Imagenes/tlm2.png)
+![TLM2](Imagenes/TLM2.png)
 
-![tl2](Imagenes/tl2.gif)
+![tl2](Imagenes/TL2.gif)
 
 Actividad 3
 
